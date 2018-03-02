@@ -125,4 +125,6 @@ main {
 
 .post-container {
     font-family: "Open Sans", sans-serif;
+    padding:0px 60px 0px 60px;
+    text-align: justify;
 }
