@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Software Security 01
+title: Software Security, be prepared.
 description: "First article about software security, what is? and contextualization"
-modified: 2018-02-28
+modified: 2018-03-02
 tags: [software security]
 ---
+
+![Smithsonian Image]({{ site.url }}/assets/img/hacking.jpg)
 
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A few months ago I started writing a pre-project with the intention of submitting it, and thus succeeding, in the master's degree in systems and computing offered by UFRN. On the first attempt it did not work, the text contained some flaws and I did not have time to correct until the maximum deadline for submission, however after re-reading several times and make the corrections due, I managed to pass. Although I am not working with my pre project as a de facto project in the master's degree, I will not expose the same since I have some pretensions for it. However, I want to start my blog posts here by writing about the central theme, which, as we see it day after day, there is a huge need not only for new professionals, but also for professionals who already work in development with medium knowledge (at least) in the concept of software security.
