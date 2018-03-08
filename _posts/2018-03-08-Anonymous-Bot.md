@@ -45,7 +45,8 @@ main(){<br>
 </p>
 <p>
 I will not go through all the code I implemented here, because this bot met a specific need of my test.
-However I will put the passages that I understand as generic, and in my github I will make the complete code believing that with the necessary changes it can be used in other scenarios. In my test environment I made study-level permutations between Windows 10 and Linux (Kali), so the difference in the script used in them was basically how to interact with browser processes.
+However I will put the passages that I understand as generic, and in my github I will make the complete 
+<a href="https://github.com/Johnmelo/SecurityScripts/blob/master/Bot.py">code</a> believing that with the necessary changes it can be used in other scenarios. In my test environment I made study-level permutations between Windows 10 and Linux (Kali), so the difference in the script used in them was basically how to interact with browser processes.
 </p>
 <b>Excerpts in Python for Windows:</b>
 
