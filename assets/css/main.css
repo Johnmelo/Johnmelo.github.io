@@ -128,3 +128,7 @@ main {
     padding:0px 110px 0px 110px;
     text-align: justify;
 }
+
+.img-rsize {
+	width:200px;
+}
