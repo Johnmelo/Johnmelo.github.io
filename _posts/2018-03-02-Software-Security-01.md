@@ -9,7 +9,7 @@ tags: [software security]
 ![Smithsonian Image]({{ site.url }}/assets/img/hacking.jpg)
 
 <p>
-A few months ago I started writing a pre-project with the intention of submitting it, and thus succeeding, in the master's degree in systems and computing offered by UFRN. On the first attempt it did not work, the text contained some flaws and I did not have time to correct until the maximum deadline for submission, however after re-reading several times and make the corrections due, I thought that will be interesting start my blog posts here by writing about the central theme of this work, which, as we see it day after day, there is a huge need not only for new professionals, but also for professionals who already work in development with medium knowledge (at least) in the concept of software security. 
+A few months ago I started writing a pre-project with the intention of submitting it to the master's degree in systems and computing offered by UFRN. On the first attempt it did not have success, the text contained some flaws and I did not have time to correct until the maximum deadline for submission, however after re-reading several times and make the corrections, I thought that will be interesting start my blog posts here by writing about the central theme of this work, which, as we see it day after day, there is a huge need not only for new professionals, but also for professionals who already work in development with medium knowledge (at least) in the concept of software security. 
 </p>
 
 <p>
